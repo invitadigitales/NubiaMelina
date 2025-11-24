@@ -14,6 +14,12 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'ana';
+    src: url('ana.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 /* ===========================================
    CLASES DE FUENTES REUTILIZABLES
 =========================================== */
@@ -55,7 +61,9 @@
 .font_paris {
     font-family: "paris";
 }
-
+.font_ana {
+    font-family: "ana";
+}
 
 
 
