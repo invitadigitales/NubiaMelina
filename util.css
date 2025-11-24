@@ -117,8 +117,7 @@
 }
 
 .bg_blue_dark {
-    --bg-color: 0, 38, 77; /* Negro */
-    background-color: rgb(var(--bg-color));
+    background: #013EEF;
 }
 
 
